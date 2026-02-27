@@ -1,55 +1,304 @@
 {
-"games" :
-[
-  { "id": 1, "title": "Cyber Strike", "description": "A futuristic action shooter set in a neon-lit cyberpunk city.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg" },
-  { "id": 2, "title": "Kingdoms of Valor", "description": "Build armies, conquer kingdoms, and rule a medieval empire.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg" },
-  { "id": 3, "title": "Starship Odyssey", "description": "Explore galaxies, command fleets, and uncover cosmic mysteries.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/361420/header.jpg" },
-  { "id": 4, "title": "Mystic Realms", "description": "Embark on magical quests through enchanted lands.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg" },
-  { "id": 5, "title": "Shadow Operatives", "description": "Stealth missions in hostile territories.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg" },
-  { "id": 6, "title": "Titan Wars", "description": "Battle colossal machines in a post-apocalyptic world.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1172380/header.jpg" },
-  { "id": 7, "title": "Dragonspire", "description": "Raise dragons and defend your kingdom.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/72850/header.jpg" },
-  { "id": 8, "title": "Neon Drift", "description": "High-speed racing through neon-lit streets.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1446780/header.jpg" },
-  { "id": 9, "title": "Iron Legion", "description": "Command mechanized armies in futuristic warfare.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/410900/header.jpg" },
-  { "id": 10, "title": "Frozen Tundra", "description": "Survive the icy wastelands against nature and foes.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1643320/header.jpg" },
-  { "id": 11, "title": "Solar Reign", "description": "Rule interstellar empires across the galaxy.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/281990/header.jpg" },
-  { "id": 12, "title": "Wraith Hunters", "description": "Track and eliminate supernatural threats.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg" },
-  { "id": 13, "title": "Crimson Dawn", "description": "Fight for survival in a dystopian rebellion.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg" },
-  { "id": 14, "title": "Aetheria", "description": "Harness elemental powers in a mystical land.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222690/header.jpg" },
-  { "id": 15, "title": "Steel Horizon", "description": "Naval battles across futuristic oceans.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg" },
-  { "id": 16, "title": "Inferno Siege", "description": "Defend your fortress against waves of enemies.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/976730/header.jpg" },
-  { "id": 17, "title": "Echo Protocol", "description": "Uncover secrets in a cyber-espionage thriller.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg" },
-  { "id": 18, "title": "Phantom Horizon", "description": "Pilot stealth aircraft in covert missions.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919590/header.jpg" },
-  { "id": 19, "title": "Savage Frontier", "description": "Survive and thrive in untamed wilderness.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203220/header.jpg" },
-  { "id": 20, "title": "Oblivion Nexus", "description": "Battle across dimensions in a sci-fi saga.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/header.jpg" },
-  { "id": 21, "title": "Stormbreak", "description": "Harness weather powers to defeat enemies.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/813820/header.jpg" },
-  { "id": 22, "title": "Venomspire", "description": "Dark fantasy adventure in cursed lands.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg" },
-  { "id": 23, "title": "Quantum Rift", "description": "Manipulate time and space in combat.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158220/header.jpg" },
-  { "id": 24, "title": "Ironclad Dominion", "description": "Rule with an iron fist in steampunk warfare.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg" },
-  { "id": 25, "title": "Celestial Crusade", "description": "Fight for divine power in heavenly realms.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/255710/header.jpg" },
-  { "id": 26, "title": "Ashen Skies", "description": "Survive aerial battles in a ruined world.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250410/header.jpg" },
-  { "id": 27, "title": "Bloodforge", "description": "Craft weapons of power in brutal combat.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/header.jpg" },
-  { "id": 28, "title": "Specter Protocol", "description": "Hack systems and infiltrate corporations.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg" },
-  { "id": 29, "title": "Frozen Eclipse", "description": "Survive a world locked in eternal winter.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1850750/header.jpg" },
-  { "id": 30, "title": "Nova Ascension", "description": "Rise to power in galactic conflicts.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/367310/header.jpg" },
-  { "id": 31, "title": "Iron Rebellion", "description": "Lead rebels against oppressive machines.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/460950/header.jpg" },
-  { "id": 32, "title": "Arcane Dominion", "description": "Master spells to rule magical kingdoms.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1604030/header.jpg" },
-  { "id": 33, "title": "Cyber Exodus", "description": "Escape the digital prison of a mega-corp.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/774201/header.jpg" },
-  { "id": 34, "title": "Savage Tide", "description": "Survive pirate-infested seas.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/444220/header.jpg" },
-  { "id": 35, "title": "Eternal Flame", "description": "Harness fire magic to defeat foes.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg" },
-  { "id": 36, "title": "Steel Tempest", "description": "Battle storms with mechanized warriors.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/304050/header.jpg" },
-  { "id": 37, "title": "Darkspire", "description": "Explore cursed towers filled with danger.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg" },
-  { "id": 38, "title": "Solar Eclipse", "description": "Fight under the shadow of a dying sun.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg" },
-  { "id": 39, "title": "Phantom Legion", "description": "Command ghostly armies in battle.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg" },
-  { "id": 40, "title": "Crystal Dominion", "description": "Harness the power of crystals to shape kingdoms.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222690/header.jpg" },
-  { "id": 41, "title": "Iron Vortex", "description": "Fight through mechanical storms in a dystopian future.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg" },
-  { "id": 42, "title": "Moonfall Legacy", "description": "Uncover secrets of a fallen lunar colony.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg" },
-  { "id": 43, "title": "Stormriders", "description": "Ride the winds in high-octane aerial combat.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250410/header.jpg" },
-  { "id": 44, "title": "Obsidian Throne", "description": "Claim the throne in a dark fantasy empire.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg" },
-  { "id": 45, "title": "Neural Nexus", "description": "Hack minds and control networks in a cyberpunk saga.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg" },
-  { "id": 46, "title": "Savage Dominion", "description": "Lead barbarian tribes to conquer civilizations.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203220/header.jpg" },
-  { "id": 47, "title": "Frozen Abyss", "description": "Descend into icy caverns filled with danger.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/1643320/header.jpg" },
-  { "id": 48, "title": "Solar Vanguard", "description": "Defend humanity as guardians of the sun.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/367310/header.jpg" },
-  { "id": 49, "title": "Phantom Strike", "description": "Execute covert missions with precision and stealth.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg" },
-  { "id": 50, "title": "Eclipse Rebellion", "description": "Rise against tyranny under a dying sun.", "image": "https://cdn.akamai.steamstatic.com/steam/apps/460950/header.jpg" }
-]
+  "games": [
+    {
+      "id": 1,
+      "title": "Cyber Strike",
+      "description": "A futuristic action shooter set in a neon-lit cyberpunk city where corporations rule and justice is sold to the highest bidder. You play as a rogue mercenary fighting through sprawling urban districts filled with hostile drones, augmented soldiers, and corrupt officials. Use advanced weaponry, cyber implants, and tactical skills to dismantle the corporate regime from within.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kingdoms of Valor",
+      "description": "Build mighty armies, forge powerful alliances, and conquer rival kingdoms in a sprawling medieval empire. As a rising warlord, you must manage resources, recruit legendary heroes, and engage in epic large-scale battles across richly detailed landscapes. Every decision shapes your dynasty's fate — will you rule with honor or crush your enemies without mercy?",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Starship Odyssey",
+      "description": "Explore vast uncharted galaxies, command powerful fleets of starships, and uncover ancient cosmic mysteries hidden across the universe. As captain of an elite exploration vessel, you must navigate treacherous nebulae, negotiate with alien civilizations, and battle rogue factions threatening galactic peace. Every star system holds new dangers, secrets, and opportunities waiting to be discovered.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/361420/header.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mystic Realms",
+      "description": "Embark on breathtaking magical quests through enchanted lands filled with mythical creatures, ancient ruins, and powerful sorcery. As a chosen hero, you must master elemental spells, solve intricate puzzles, and defeat dark forces threatening to consume the realm. Forge bonds with mystical companions and uncover a centuries-old prophecy that only you are destined to fulfill.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Shadow Operatives",
+      "description": "Execute high-stakes stealth missions deep inside hostile territories controlled by dangerous warlords and rogue military factions. As an elite shadow operative, you must infiltrate fortified bases, extract critical intelligence, and eliminate targets without leaving a trace. Every mission demands perfect timing, clever disguise, and split-second decision-making — one mistake could compromise the entire operation.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Titan Wars",
+      "description": "Battle colossal mechanical titans in a devastated post-apocalyptic world where surviving factions fight for control of the last remaining energy sources. Pilot towering war machines armed with devastating weapons, upgrade your titan with salvaged technology, and crush enemy fortifications in epic large-scale confrontations. The fate of humanity rests on every battle you fight.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1172380/header.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Dragonspire",
+      "description": "Raise magnificent dragons from hatchlings into fearsome warriors and defend your mountain kingdom against relentless invaders. Bond with each dragon, train their unique abilities, and deploy them strategically in intense aerial and ground combat. As the Dragon Lord, you must also manage your kingdom's defenses, forge alliances with neighboring realms, and uncover the ancient secret of the Dragonspire tower.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/72850/header.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Neon Drift",
+      "description": "Tear through blazing neon-lit streets at breakneck speeds in the most dangerous underground racing circuit ever created. Customize your vehicle with hundreds of performance upgrades, master the art of precision drifting, and outmaneuver ruthless rivals across dazzling night-time tracks. The city never sleeps, the crowds are hungry for action, and only the fastest driver survives.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1446780/header.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Iron Legion",
+      "description": "Command elite mechanized armies across brutal futuristic battlefields where war is fought with towering armored units and devastating energy weapons. As a legendary general, you must devise complex strategies, deploy specialized battalions, and adapt to ever-changing battlefield conditions. Crush enemy factions, capture strategic territories, and lead the Iron Legion to ultimate dominance in a war-torn world.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/410900/header.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Frozen Tundra",
+      "description": "Brave the merciless icy wastelands where deadly blizzards, savage predators, and ruthless rival survivors all stand between you and salvation. Gather scarce resources, build fortified shelters, and craft powerful tools to endure the brutal subzero environment. Every sunrise is a victory earned through sheer determination, and every night brings new threats lurking beneath the frozen darkness.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1643320/header.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Solar Reign",
+      "description": "Rule vast interstellar empires stretched across star systems, managing planets, fleets, and alien populations with an iron fist or diplomatic wisdom. Forge trade routes, research cutting-edge technologies, and wage interstellar wars against rival emperors seeking to claim the galaxy for themselves. Every choice ripples through your empire — balance power, economy, and diplomacy to achieve total solar dominance.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/281990/header.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Wraith Hunters",
+      "description": "Track terrifying supernatural threats lurking in the shadows of a world where ancient spirits and demonic entities have broken free from their otherworldly prisons. As an elite wraith hunter, you must investigate paranormal disturbances, gather esoteric knowledge, and arm yourself with specialized weapons to banish these malevolent forces. Not every monster can be seen — trust your instincts.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Crimson Dawn",
+      "description": "Fight for survival and justice in a dystopian world gripped by a brutal authoritarian regime that controls every aspect of civilian life. Join the underground rebellion, recruit freedom fighters, and launch daring attacks against heavily fortified government strongholds. As the conflict escalates, you must make impossible moral choices that will determine whether the rebellion succeeds or crumbles into chaos.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Aetheria",
+      "description": "Harness the raw power of fire, water, earth, and air in a mystical land where elemental forces govern all life. As a chosen Aether Mage, you must master ancient elemental arts, explore breathtaking magical landscapes, and confront a dark sorcerer threatening to shatter the elemental balance forever. Every spell you cast reshapes the world around you in spectacular ways.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222690/header.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Steel Horizon",
+      "description": "Command powerful naval fleets in epic sea battles across the vast futuristic oceans of a world divided by maritime superpowers. Design and upgrade warships with advanced weaponry, manage fleet formations, and engage in intense real-time naval combat. Control strategic sea lanes, blockade enemy ports, and expand your maritime empire to establish dominance over the entire Steel Horizon.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/header.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Inferno Siege",
+      "description": "Defend your mighty fortress against relentless waves of increasingly powerful enemies determined to tear down your walls and claim your kingdom. Strategically place towers, deploy elite troops, and use devastating special abilities to repel each assault. Between sieges, reinforce your defenses, research new technologies, and prepare for the ultimate battle that will test every strategy you have mastered.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/976730/header.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Echo Protocol",
+      "description": "Dive deep into a gripping cyber-espionage thriller where shadowy organizations pull strings behind the world's most powerful governments. As a rogue intelligence agent, you must hack encrypted networks, decode hidden messages, and unravel a vast conspiracy that reaches the highest levels of global power. Every clue leads deeper into a web of deception, danger, and shocking revelations.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Phantom Horizon",
+      "description": "Pilot cutting-edge stealth aircraft through daring covert missions deep inside enemy airspace with zero margin for error. Evade advanced radar systems, neutralize high-value targets, and extract crucial intelligence without triggering international incidents. As the world's most feared stealth pilot, you operate alone, unseen, and undetected — a ghost in the sky executing missions that officially never happened.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1919590/header.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Savage Frontier",
+      "description": "Carve out your survival in a vast untamed wilderness teeming with ferocious predators, hostile tribes, and unpredictable natural disasters. Hunt animals for food, build shelters against brutal weather, and forge tools from raw materials to slowly transform from a desperate survivor into a frontier legend. The wilderness shows no mercy — only the toughest and smartest will endure.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203220/header.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Oblivion Nexus",
+      "description": "Battle across multiple parallel dimensions in a sweeping sci-fi saga where the boundaries of reality have collapsed. Each dimension holds unique physics, civilizations, and terrifying enemies adapted to their fragmented world. As the Nexus Guardian, you must stabilize dimensional rifts, recruit allies from across realities, and confront the cosmic entity responsible for unraveling the fabric of existence itself.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1167630/header.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Stormbreak",
+      "description": "Channel the devastating power of lightning, tornadoes, and hurricanes to obliterate enemies and reshape entire battlefields to your advantage. As the chosen Storm Wielder, you must master increasingly complex weather powers, combining elemental forces to create catastrophic chain reactions. Face powerful weather-resistant foes, ancient storm gods, and rival wielders seeking to claim the ultimate power of Stormbreak for themselves.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/813820/header.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Venomspire",
+      "description": "Venture into cursed, poison-soaked lands corrupted by dark ancient magic that has twisted both creatures and landscape into nightmarish forms. As a brave adventurer, you must resist the spreading corruption, discover the source of the venomous curse, and confront the terrifying entity at the heart of Venomspire. Every step deeper into these cursed lands tests your will and endurance.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Quantum Rift",
+      "description": "Wield extraordinary power over time and space in intense combat scenarios where manipulating reality is the key to victory. Freeze enemies mid-strike, rewind devastating damage, and tear open spatial rifts to teleport across the battlefield in an instant. As you master increasingly complex quantum techniques, you will face opponents equally capable of bending time — and only the most skilled will prevail.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158220/header.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Ironclad Dominion",
+      "description": "Rule a vast steampunk empire with an iron fist, commanding armies of clockwork soldiers, armored airships, and steam-powered war machines in brutal industrial warfare. Manage coal and steam resources, construct mechanical fortresses, and crush rival nations in spectacular mechanized battles. As the Ironclad Emperor, every technological advancement you make brings your dominion one step closer to absolute power.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Celestial Crusade",
+      "description": "Fight for divine power across breathtaking heavenly realms where angelic warriors, fallen gods, and celestial beasts clash in epic spiritual warfare. As a champion chosen by the heavens, you must ascend through increasingly dangerous divine trials, master sacred weapons, and unite fractured celestial factions against a rising dark deity threatening to extinguish the light of the entire cosmos forever.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/255710/header.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Ashen Skies",
+      "description": "Survive brutal aerial combat above a devastated world blanketed in volcanic ash and perpetual toxic storms. Pilot your customizable aircraft through crumbling ruins, fight rival pilots, and scavenge downed planes for critical spare parts. The ground is uninhabitable, the skies are deadly, and fuel is scarce — every flight could be your last in this relentless battle for aerial supremacy.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250410/header.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Bloodforge",
+      "description": "Master the ancient art of battle-forging — crafting legendary weapons from the blood and essence of defeated enemies in brutal close-quarters combat. Each weapon you forge carries the power of those it was made from, growing stronger with every victory. Face increasingly formidable warriors in savage arenas, uncover the dark origins of bloodforge magic, and become the ultimate weapon master.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/header.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Specter Protocol",
+      "description": "Infiltrate the world's most powerful mega-corporations using cutting-edge hacking tools, social engineering, and digital espionage in a dark cyberpunk future. Breach encrypted servers, steal corporate secrets, and expose criminal conspiracies while evading elite cyber-security forces hunting you across the digital landscape. Every hack brings you closer to the truth — and closer to the dangerous people who want you silenced.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1623730/header.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Frozen Eclipse",
+      "description": "Endure a world forever locked in darkness and eternal winter after the sun was mysteriously extinguished by an unknown cosmic event. Scavenge frozen ruins for warmth, food, and weapons while battling ice-adapted creatures and desperate survivor factions. Uncover the truth behind the Frozen Eclipse phenomenon and determine whether humanity has any hope of reigniting the sun before extinction becomes inevitable.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1850750/header.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Nova Ascension",
+      "description": "Rise from a minor interstellar faction to the dominant galactic superpower through diplomacy, warfare, and economic mastery. Colonize new planets, develop advanced technologies, and command enormous battle fleets in sweeping space conflicts that determine control of entire star systems. Every alliance you forge and every war you wage reshapes the galactic political landscape in Nova Ascension's epic space strategy saga.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/367310/header.jpg"
+    },
+    {
+      "id": 31,
+      "title": "Iron Rebellion",
+      "description": "Lead a ragtag band of human rebels against the overwhelming might of an oppressive machine empire that has enslaved mankind for centuries. Sabotage automated factories, liberate prisoner camps, and recruit skilled fighters to your growing resistance movement. Outgunned and outnumbered, the rebellion's only advantages are human ingenuity and sheer determination — qualities the machines can calculate but never truly understand.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/460950/header.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Arcane Dominion",
+      "description": "Master hundreds of devastating spells, summon mystical creatures, and build powerful magical infrastructure to rule over rival kingdoms in a rich fantasy world brimming with arcane energy. Research forbidden magic, defend against sorcerous invasions, and expand your arcane dominion across an entire continent. True power lies not just in combat magic but in the strategic mastery of arcane governance and diplomacy.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1604030/header.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Cyber Exodus",
+      "description": "Escape the suffocating digital prison constructed by a ruthless mega-corporation that has trapped millions of human minds inside a virtual reality system for profit. Navigate labyrinthine digital worlds, decrypt corporate firewalls, and build alliances with other trapped digital souls. Every layer of the virtual prison you break through reveals darker secrets about the corporation's true intentions and the real world outside.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/774201/header.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Savage Tide",
+      "description": "Navigate treacherous pirate-infested seas where every island harbors ruthless buccaneers and every trade route is contested by deadly naval outlaws. Command your own pirate vessel, assemble a loyal crew, and plunder merchant ships to build your seafaring empire. Face legendary pirate lords, ancient sea monsters, and naval warships from powerful kingdoms determined to bring the age of pirates to a brutal end.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/444220/header.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Eternal Flame",
+      "description": "Wield ancient fire magic inherited from legendary phoenix warriors to defeat dark forces spreading corruption across a dying world. Harness the purifying power of sacred flames to cleanse cursed lands, forge powerful fire weapons, and incinerate hordes of shadow creatures threatening to extinguish all life. The eternal flame within you grows stronger with every enemy defeated — but dark forces seek to snuff it out forever.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Steel Tempest",
+      "description": "Command powerful mechanized warriors built to withstand and harness the destructive energy of catastrophic electrical storms that ravage a war-torn industrial world. Deploy steel-clad soldiers with storm-absorbing technology, coordinate lightning-strike tactics, and overwhelm enemy positions with thunder-powered weaponry. Master the art of tempest warfare, where the storm itself becomes your most powerful ally on the battlefield.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/304050/header.jpg"
+    },
+    {
+      "id": 37,
+      "title": "Darkspire",
+      "description": "Brave the cursed towers of Darkspire — ancient structures filled with deadly traps, monstrous guardians, and treasures of immense dark power. Each floor presents increasingly devious challenges and more terrifying creatures adapted to the tower's malevolent magic. As you ascend toward the cursed spire's summit, the darkness grows stronger and the line between hunter and haunted becomes dangerously, irreversibly blurred.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Solar Eclipse",
+      "description": "Fight desperate battles under the ominous shadow of a dying sun slowly being consumed by a mysterious dark celestial force. Command the last armies of a solar civilization struggling to survive in the growing darkness while searching for a way to restore their star. Harness the final rays of solar energy as weapons, uncover ancient sun-worship secrets, and confront the entity devouring your world's light.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Phantom Legion",
+      "description": "Command an otherworldly army of spectral warriors capable of passing through walls, possessing enemies, and striking fear into the hearts of the living. As the Phantom General, summon ghostly battalions from fallen soldiers across history, exploit the weaknesses of terrified mortal armies, and claim dominion over the living world. Not even fortress walls or elite bodyguards can protect your enemies from the Phantom Legion.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg"
+    },
+    {
+      "id": 40,
+      "title": "Crystal Dominion",
+      "description": "Harness the extraordinary power of ancient, mystical crystals to construct magnificent kingdoms, power unstoppable armies, and reshape entire landscapes. Each crystal type grants unique abilities — some fuel economic prosperity, others amplify military might, and rare crystals can alter the laws of nature itself. Discover hidden crystal veins, defend them from rival kingdoms, and master crystal alchemy to achieve absolute dominion.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1222690/header.jpg"
+    },
+    {
+      "id": 41,
+      "title": "Iron Vortex",
+      "description": "Fight your way through catastrophic mechanical storms in a dystopian future where rogue AI systems have turned industrial machinery into weapons of mass destruction. Navigate tornado-like vortexes of shredding metal, disable rampaging mechanical entities, and uncover the digital consciousness behind the Iron Vortex phenomenon. Survival requires both combat skill and engineering genius as the mechanical tempest grows ever more powerful and intelligent.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Moonfall Legacy",
+      "description": "Uncover the chilling secrets of a lunar colony that mysteriously fell silent decades ago, leaving behind only cryptic recordings and disturbing evidence of something terrible. Explore hauntingly desolate moon bases, piece together the final days of the colonists, and confront the unknown entity that triggered the Moonfall event. Every corridor holds new revelations that rewrite everything you thought you knew about humanity's first lunar civilization.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/736260/header.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Stormriders",
+      "description": "Master high-octane aerial combat by riding powerful storm currents through breathtaking sky environments filled with rival pilots, ancient flying beasts, and floating fortress cities. Customize your storm-glider with advanced weapons and agility upgrades, coordinate with your squadron, and dominate the skies in intense dogfights where wind direction and storm intensity change the battlefield every second. Only the boldest Stormrider rules the sky.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250410/header.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Obsidian Throne",
+      "description": "Claim the legendary Obsidian Throne through cunning politics, battlefield conquest, and ruthless elimination of rivals in a dark fantasy empire on the brink of collapse. Navigate treacherous court intrigue, forge uneasy alliances with dangerous noble houses, and command your armies in brutal medieval warfare. The throne corrupts all who seek it — but only the most ruthless and clever ruler can survive long enough to hold it.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/header.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Neural Nexus",
+      "description": "Hack directly into human minds and control sprawling corporate data networks in a richly detailed cyberpunk world where information is the ultimate weapon. As a rogue neural hacker, you must infiltrate thought-protected vaults, extract suppressed memories, and expose a conspiracy that reaches into the highest levels of corporate and government power. The line between digital reality and human consciousness becomes dangerously blurred the deeper you go.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Savage Dominion",
+      "description": "Lead fierce barbarian tribes from scattered wilderness clans to an unstoppable conquering force that brings ancient civilizations to their knees. Raid fortified cities, assimilate conquered peoples into your ever-growing horde, and clash with organized military empires unprepared for the savage tactics of tribal warfare. As the Great Warchief, prove that raw ferocity and tactical brilliance are more than enough to overcome any army the civilized world can muster.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1203220/header.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Frozen Abyss",
+      "description": "Descend into the terrifying frozen caverns deep beneath an arctic wasteland where ancient creatures preserved in ice have begun to thaw and awaken after millennia of frozen slumber. Navigate treacherous ice tunnels, battle prehistoric predators, and discover the remnants of a long-lost civilization that once made the abyss their home. The deeper you go, the more ancient and dangerous the horrors lurking in the frozen darkness below.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/1643320/header.jpg"
+    },
+    {
+      "id": 48,
+      "title": "Solar Vanguard",
+      "description": "Stand as one of humanity's last guardians against a massive alien armada harvesting the sun's energy to power their interstellar conquest. Command elite solar-powered battle suits, coordinate defensive formations around the sun, and launch daring counteroffensives deep into alien territory. The sun is humanity's greatest resource and its greatest vulnerability — protecting it requires sacrifice, innovation, and unbreakable courage from every Solar Vanguard warrior.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/367310/header.jpg"
+    },
+    {
+      "id": 49,
+      "title": "Phantom Strike",
+      "description": "Execute flawlessly precise covert missions in hostile territories using next-generation stealth technology, advanced tactical planning, and lethal close-quarters combat expertise. As a Phantom operative, you must infiltrate enemy strongholds, neutralize high-value targets, and extract safely without triggering global incidents. Every mission is a carefully choreographed act of invisible warfare — one wrong move exposes you, and exposure means certain death.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/582010/header.jpg"
+    },
+    {
+      "id": 50,
+      "title": "Eclipse Rebellion",
+      "description": "Rise against a tyrannical regime that has seized power in the desperate final years of a dying sun, exploiting humanity's fear of extinction to enslave the remaining population. Organize underground resistance cells, sabotage the regime's solar-energy monopoly, and inspire ordinary citizens to join the rebellion. As the eclipse deepens and time runs short, your fight for freedom becomes inseparable from humanity's last desperate struggle for survival.",
+      "image": "https://cdn.akamai.steamstatic.com/steam/apps/460950/header.jpg"
+    }
+  ]
 }
